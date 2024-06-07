@@ -43,15 +43,7 @@ Welcome to the Board Games project! The goal of this project is to provide modul
 - **Player**: Base class for all players.
 
 # UML Diagram
-The UML diagram, presented in the file `Structure.png`, illustrates the class structure in the Board Games project. The diagram includes details on:
-
-- Properties of each class.
-- Dependencies between classes.
-- Inheritance between classes.
-
-The diagram also shows which modules are used in each game (PigDices, War, Poker) and how these games utilize base classes and specific modules.
-
-All this information is graphically presented in the `Structure.png` file, making it easier to understand the structure and dependencies in the project.
+The UML diagram, presented in the file `Structure.png`, illustrates the class structure in the Board Games project.
 ![1](Structure.png)
 
 # Repository Structure
