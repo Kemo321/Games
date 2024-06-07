@@ -43,15 +43,7 @@ Witamy w projekcie Gry Planszowe! Celem tego projektu jest dostarczenie modułó
 - **Player**: Klasa bazowa dla wszystkich graczy.
 
 # Diagram UML
-Diagram UML, przedstawiony w pliku `Structure.png`, ilustruje strukturę klas w projekcie Gry Planszowe. Diagram zawiera szczegóły dotyczące:
-
--   Właściwości każdej klasy.
--   Zależności między klasami.
--   Dziedziczenie między klasami.
-
-Diagram pokazuje również, które moduły są używane w poszczególnych grach (PigDices, War, Poker) oraz jak te gry wykorzystują klasy bazowe i specyficzne moduły.
-
-Wszystkie te informacje są przedstawione w sposób graficzny w pliku `Structure.png`, co ułatwia zrozumienie struktury i zależności w projekcie.
+Diagram UML, przedstawiony w pliku `Structure.png`, ilustruje strukturę klas w projekcie Gry Planszowe.
 ![1](Structure.png)
 
 # Podział Repozytorium na Katalogi
